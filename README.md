@@ -29,7 +29,7 @@ this entire section.\*\*
 
 ### Links
 
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://gsparmar.github.io/notifications-page-main/)
 
 ## My process
 
